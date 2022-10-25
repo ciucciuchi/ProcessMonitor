@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Monitor/obj
+/Monitor/bin/Debug
+/Monitor/.vs

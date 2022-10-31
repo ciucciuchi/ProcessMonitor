@@ -5,3 +5,5 @@
 /Monitor/obj
 /Monitor/bin/Debug
 /Monitor/.vs
+/Monitor.Tests/bin/Debug
+/Monitor.Tests/obj/Debug

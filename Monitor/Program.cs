@@ -12,7 +12,7 @@ namespace Monitor
 
             if (!validator.ValidateArguments(args))
             {
-                Console.WriteLine("Nu ati introdus parametrii corespunzatori. Reincercati!");
+                Console.WriteLine("Input data is invalid. Try again!");
                 return;
             }
             Console.WriteLine("Monitoring process. Press E to stop");
